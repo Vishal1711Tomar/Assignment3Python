@@ -21,3 +21,9 @@ Write a Python program that:
    - The natural logarithm (log base e)
    - The sine of the number (interpreted in radians)
 3. Displays all calculated values to the user.
+
+## Output Screenshot
+
+Below is an image showing the output of both programs:
+
+![Assignment Output](Assignment3.jpg)
